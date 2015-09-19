@@ -1,5 +1,5 @@
 # nodeschool-learnyounode
 
-status 29/06/2015: 10/13 completed exercises
+repository for the first nodeschool Cagliari
 
-more info: http://nodeschool.io/
+package 'learnyounode' , more info: http://nodeschool.io/
