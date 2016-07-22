@@ -5,7 +5,7 @@ repository for the first nodeschool Cagliari
 package 'learnyounode' , more info: http://nodeschool.io/
 
 ```
-npm install nodeschool-learnyounode
+npm install learnyounode
 ```
 
 ## Status
